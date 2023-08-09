@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978452747487",
+    "project_id": "gsignal-340d3",
+    "storage_bucket": "gsignal-340d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978452747487:android:55e48ab7a26e7f8643056a",
+        "android_client_info": {
+          "package_name": "com.gsignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978452747487-18h90pkqq8b82808jbr7k7hjn1r39r6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG9hTlXdFZOPf5V3ABGcawgRFf6kwO9b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978452747487-18h90pkqq8b82808jbr7k7hjn1r39r6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
